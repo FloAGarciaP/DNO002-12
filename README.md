@@ -1,7 +1,4 @@
 # DNO002-12
-
-### Primero, para quién:
-
 #### Mainstream
 
 | Preguntas | Respuestas |
