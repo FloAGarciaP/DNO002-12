@@ -66,23 +66,31 @@ https://ourworldindata.org/trust
 
 <img width="841" height="561" alt="Captura de Pantalla 2026-05-31 a la(s) 22 40 50" src="https://github.com/user-attachments/assets/941089da-0ad0-4def-a353-cd44c9a4f629" />
 
-
+| Preguntas | Respuestas |
 |:----------|:-----------|
 |Positivo| Series temporales largas (30+ años) con gráficos de líneas interactivos, muy limpios y legibles. Permite filtrar por país y comparar regiones. Incluye nota metodológica y descarga de datos desde la misma interfaz. Excelente manejo de la densidad de información sin sobrecarga visual.|
 |Negativo| El diseño es funcional pero frío: no tiene narrativa ni jerarquía editorial. No hay scroll guiado ni contexto histórico que explique los quiebres de las curvas. El usuario debe interpretar solo, lo que lo hace más apto para investigadores que para audiencias amplias.|
 
 
-#### Antecedente 2: Nombre con link
+#### Antecedente 2: The puddingg: the world through the eyes of the us
+https://pudding.cool/2018/12/countries/
 
-Pantallazo. 
+<img width="1423" height="696" alt="Captura de Pantalla 2026-05-31 a la(s) 22 46 40" src="https://github.com/user-attachments/assets/0cf12a4c-364b-4bf2-9ec4-9f07a2f8ba19" />
+| Preguntas | Respuestas |
+|:----------|:-----------|
+|Positivo| Cómo se muestra la evolución en el tiempo gracias al recurso del scrolling. Se destaca la forma de mostrar la evolción y destacar a medida que uno avanza los hitos clave que permiten entender el contexto. |
+|Negativo| La visualización no permite seleccionar variables para tener info más precisa o mayor detalles y no permite filtrar para hacer comparaciones. Además, la composición visual es muy saturada|
 
-Describa lo positivo a rescatar y, si fuese posible, lo negativo a evitar.
+#### Antecedente 3: Visual Capitalist. Mapped:Democracy around the World in 2025
 
-#### Antecedente 3: Nombre con link
+<img width="990" height="811" alt="Captura de Pantalla 2026-05-31 a la(s) 23 00 27" src="https://github.com/user-attachments/assets/0ba00826-5050-43c5-b405-b24936c14296" />
 
-Pantallazo. 
+| Preguntas | Respuestas |
+|:----------|:-----------|
+|Positivo| El time lapse de la evolución como recurso simple de uso de movimiento. La simpleza gráfica, el buen manejo de códigos de color y leyendas que permiten comprender rápidamente la información. |
+|Negativo| El gráfico funciona independiente de los textos y el scrolling, no hay un diseño de la página en general, parecen elementos idependientes que no se acompañan|
 
-Describa lo positivo a rescatar y, si fuese posible, lo negativo a evitar.
+
 
 
 #### Moodboard de Referentes
