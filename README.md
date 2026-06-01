@@ -66,11 +66,11 @@ https://ourworldindata.org/trust
 
 <img width="841" height="561" alt="Captura de Pantalla 2026-05-31 a la(s) 22 40 50" src="https://github.com/user-attachments/assets/941089da-0ad0-4def-a353-cd44c9a4f629" />
 
-| Preguntas | Respuestas |
+
 |:----------|:-----------|
 |Positivo| Series temporales largas (30+ años) con gráficos de líneas interactivos, muy limpios y legibles. Permite filtrar por país y comparar regiones. Incluye nota metodológica y descarga de datos desde la misma interfaz. Excelente manejo de la densidad de información sin sobrecarga visual.|
 |Negativo| El diseño es funcional pero frío: no tiene narrativa ni jerarquía editorial. No hay scroll guiado ni contexto histórico que explique los quiebres de las curvas. El usuario debe interpretar solo, lo que lo hace más apto para investigadores que para audiencias amplias.|
-Describa lo positivo a rescatar y, si fuese posible, lo negativo a evitar.
+
 
 #### Antecedente 2: Nombre con link
 
